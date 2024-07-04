@@ -14,4 +14,4 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krane11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rihntek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
