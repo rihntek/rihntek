@@ -1,8 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.discordapp.net/attachments/1132853125716394065/1133288646590595132/image0.gif" width="100"/>
-</div>
-
- I’m learning **C++, and Reverse Engineering**
+**C/C++ Development/Reverse Engineering**
 
 
  **@woodnik12** on discord <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
