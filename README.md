@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.discordapp.net/attachments/1132853125716394065/1133288646590595132/image0.gif" width="100"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Krane11&style=flat-square&color=blue" alt=""/>
 
  I’m learning **C++, and Reverse Engineering**
 
